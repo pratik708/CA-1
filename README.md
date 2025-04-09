@@ -18,3 +18,11 @@
 - How collaboration works via forks, branches, and pull requests.
 - Importance of permissions and understanding repository ownership.
 
+
+## Task E: Verification
+
+- 🔗 Original repository (Account A): [Link here](https://github.com/pratik708/CA-1)
+- 🔗 Forked repository (Account B): [Link here](https://github.com/Pratik65880/CA-1)
+- 🔗 Pull Request: [Link here](https://github.com/AccountA/CA-1/pull/1)
+
+
